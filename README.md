@@ -1,2 +1,1 @@
-# feynn--labs-market-segmentation-case-study
-# feynn--labs-market-segmentation-case-study
+# Market segmentation case-study
